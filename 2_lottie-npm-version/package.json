@@ -1,5 +1,5 @@
 {
-  "name": "metro-card",
+  "name": "lottie-npm",
   "version": "0.0.1",
   "description": "",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
     "build": "webpack --mode production"
   },
   "keywords": [],
-  "author": "GR",
+  "author": "WEBSTART",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^3.4.2",
