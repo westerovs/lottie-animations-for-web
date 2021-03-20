@@ -13,5 +13,15 @@ Lottie - это мощнейший инструмент для создания 
 <br>
 Ссылка на видео:
 https://youtu.be/Shd_Dms3P8I
-
+<br>
+<br>
+===== полезные ссылки =====
+<br>
+git lottie: https://github.com/airbnb/lottie-web
+<br>
+lottie api: https://airbnb.io/lottie/#/web
+<br>
+lottie free-animations: https://lottiefiles.com/featured
+<br>
+Лекция про lottie: https://youtu.be/13OFzHLMmLY
 
