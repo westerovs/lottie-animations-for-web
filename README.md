@@ -11,10 +11,6 @@ Lottie - это мощнейший инструмент для создания 
 Для запуска через npm - введите команду: npm start
 <br>
 <br>
-Ссылка на видео:
-https://youtu.be/Shd_Dms3P8I
-<br>
-<br>
 ===== полезные ссылки =====
 <br>
 git lottie: https://github.com/airbnb/lottie-web
